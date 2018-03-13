@@ -12,6 +12,6 @@
 		die("Erro na conexão!");
 	}
 
-	echo "Conectado com sucesso!";
+	//echo "Conectado com sucesso!";
 
 ?>
